@@ -1,0 +1,6 @@
+{
+  "vector_store_id": "vs_69d6bf7a8124819188667e813b7dc913",
+  "max_results": 5,
+  "articles_dir": "../33_article-scraping/articles",
+  "summaries_dir": "../33_article-scraping/summaries"
+}
